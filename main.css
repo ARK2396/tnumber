@@ -1,0 +1,26 @@
+
+} 
+nav a
+{
+	font size: 16px;
+	font-weight: 500px;
+	padding:10px 0px;
+	color:#7E7D7D;
+	text-decoration: none;
+}
+nav ul
+{
+	list-style-type: none;
+	margin:35px;
+	padding: 7px 0px;
+	word-spacing: 20px;
+	font-size-adjust: 16px;
+	text-align-last: center;
+	font-family: sans-serif;
+}
+ul li
+{
+	display:inline-block;
+	word-spacing:20px;
+
+}
